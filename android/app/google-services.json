@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "939190002575",
+    "project_id": "aitextscanner",
+    "storage_bucket": "aitextscanner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939190002575:android:fa501a09a1b6e8548f61fa",
+        "android_client_info": {
+          "package_name": "com.example.flutter_ai_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939190002575-j7t5qt79uvnbikns678ue8g3gu26j7q2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARam8tRHy-ckRhs_BWHlJ6HZXUGnDqsWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939190002575-j7t5qt79uvnbikns678ue8g3gu26j7q2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
